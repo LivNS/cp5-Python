@@ -62,8 +62,10 @@ def main():
         if choice == "1":
             start_date = input("Data Inicial: ")
             end_date = input("Data Final: ")
-            completion_real = float(input("% de Completude Real: ")) 
-            completion_planned = float(input("% de Completude Planejada: "))  
+            completion_real_str = input("% de Completude Real: ")
+            completion_real = float(completion_real_str.strip('%'))
+            completion_planned_str = input("% de Completude Planejada: ")
+            completion_planned = float(completion_planned_str.strip('%'))
             responsible = input("Responsável: ")
             description = input("Descrição: ")
 
@@ -94,3 +96,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
