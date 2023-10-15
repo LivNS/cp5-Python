@@ -1,12 +1,3 @@
-'''
-Integrantes:
-- Debora da Silva Amaral RM 550412
-- Levy Nascimento Junior RM 98655
-- Lívia Namba Seraphim RM 97819
-- Mateus Iago Sousa Conceição RM 550270
-- Sarah Ribeiro da Silva RM 97747
-'''
-
 # Definindo de uma vez
 class Task:
     def __init__(self, start_date, end_date, completion_real, completion_planned, responsible, description):
