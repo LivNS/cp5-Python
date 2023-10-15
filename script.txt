@@ -1,1 +1,31 @@
+-------------------------------------------------
+Integrantes:
+- Debora da Silva Amaral RM 550412
+- Levy Nascimento Junior RM 98655
+- Lívia Namba Seraphim RM 97819
+- Mateus Iago Sousa Conceição RM 550270
+- Sarah Ribeiro da Silva RM 97747
+-------------------------------------------------
 
+-------------------------------------------------
+Sistema de Gerenciamento de Projeto - Vinheria
+-------------------------------------------------
+
+Descrição das Funcionalidades Implementadas:
+
+1. Cadastro de Tarefas:
+   - Permite o registro de cada tarefa a ser realizada no projeto de modernização.
+   - Campos disponíveis: nome da tarefa, data de início, data de conclusão prevista, %  de  completude  real, % de completude planejada, responsável e descrição breve.
+
+2. Plano de Ação em Caso de Atraso:
+   - Em caso de atraso em uma tarefa, o sistema permite a criação de um plano "sucinto" para atender à data final prevista.
+   - O responsável pode detalhar as ações corretivas necessárias para recuperar o atraso.
+
+3. Relatórios de Progresso:
+   - Geração de relatórios que resumem o progresso geral do projeto.
+   - Exibição das tarefas concluídas, atrasadas e em andamento.
+
+6. Gestão de Recursos:
+   - Atribuição de responsáveis para cada tarefa.
+
+Este sistema de gerenciamento de projeto foi desenvolvido para auxiliar na modernização da Vinheria, garantindo que todas as tarefas sejam executadas de forma eficiente e dentro dos prazos estabelecidos.
